@@ -47,7 +47,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 ## Design
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-## Stack25
+## Stack
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
 ## Bit Manipulation
