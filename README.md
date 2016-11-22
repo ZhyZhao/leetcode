@@ -8,15 +8,101 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 
 ## Algorithms
 
-* [Bit Manipulation](https://github.com/ZhyZhao/leetcode#bit-manipulation)
+* [Array](https://github.com/ZhyZhao/leetcode#Array)
 
-
-
-
+## Array
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Dinamic Programming
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Math
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## String
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Hash Table
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Tree
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Binary Search
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Depth-first Search
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Backtracking
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Two Pointers
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Linked List
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+136 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./C++/single-number.cpp)  | _O(n)_       | _O(1)_          | Easy         ||
+## Design
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Stack25
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
 ## Bit Manipulation
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
 -----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
-136 | [Single Number](https://leetcode.com/problems/single-number/) | [C++](./C++/single-number.cpp) [Python](./Python/single-number.py) | _O(n)_       | _O(1)_          | Easy         ||
+## Breadth-first Search
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Greedy
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Sort
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Heap
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Divide and Conquer
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Graph
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Union Find
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Trie
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Topological Sort
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Binary Indexed Tree
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Binary Search Tree
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Queue
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Recursion
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Brainteaser
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Reservoir Sampling
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+## Memoization
+  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note
+-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------| -----
+
+
 
 
 
