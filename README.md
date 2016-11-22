@@ -8,8 +8,8 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 
 ## Algorithms
 
-* [Array](https://github.com/ZhyZhao/leetcode#Array)
-* [Dinamic Programming](https://github.com/ZhyZhao/leetcode#Dinamic Programming)
+* [Array](https://github.com/ZhyZhao/leetcode#array)
+* [Dinamic Programming](https://github.com/ZhyZhao/leetcode#dinamic-rogramming)
 * [Math](https://github.com/ZhyZhao/leetcode#Math)
 * [String](https://github.com/ZhyZhao/leetcode#String)
 * [Hash Table](https://github.com/ZhyZhao/leetcode#Hash Table)
@@ -37,7 +37,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 * [Recursion](https://github.com/ZhyZhao/leetcode#Recursion)
 * [Brainteaser](https://github.com/ZhyZhao/leetcode#Brainteaser)
 * [Reservoir Sampling](https://github.com/ZhyZhao/leetcode#Reservoir Sampling)
-* [Memoization](https://github.com/ZhyZhao/leetcode#Memoization)
+* [Memoization](https://github.com/ZhyZhao/leetcode#memoization)
 
 
 ## Array
