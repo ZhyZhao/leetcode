@@ -52,6 +52,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 ## String
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    
 -----|---------------- | --------------- | --------------- | --------------- | ------------- 
+22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](./C++/generateParentheses.cpp)  | _O(n)_       | _O(1)_          | Medium   
 ## Hash Table
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    
 -----|---------------- | --------------- | --------------- | --------------- | ------------- 
@@ -73,7 +74,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 ## Linked List
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    
 -----|---------------- | --------------- | --------------- | --------------- | ------------- 
-24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./C++/swapNodeInPairs.cpp)  | _O(n)_       | _O(1)_          | Easy      
+24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./C++/swapNodeInPairs.cpp)  | _O()_       | _O()_          | Easy      
 ## Design
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    
 -----|---------------- | --------------- | --------------- | --------------- | ------------- 
