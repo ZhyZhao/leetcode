@@ -52,7 +52,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 ## String
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    
 -----|---------------- | --------------- | --------------- | --------------- | ------------- 
-22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](./C++/generateParentheses.cpp)  | _O(n)_       | _O(1)_          | Medium   
+22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](./C++/generateParentheses.cpp)  | _O()_       | _O()_          | Medium   
 ## Hash Table
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    
 -----|---------------- | --------------- | --------------- | --------------- | ------------- 
@@ -68,6 +68,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 ## Backtracking
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    
 -----|---------------- | --------------- | --------------- | --------------- | ------------- 
+22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](./C++/generateParentheses.cpp)  | _O(n)_       | _O(1)_          | Medium  
 ## Two Pointers
   #  | Title           |  Solution       |  Time           | Space           | Difficulty    
 -----|---------------- | --------------- | --------------- | --------------- | ------------- 
